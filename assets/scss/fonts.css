@@ -1,0 +1,61 @@
+@import url('https://rsms.me/inter/inter.css');
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: local('Roboto Light'), local('Roboto-Light'),
+      url('../fonts/roboto-v19-latin-300.woff2') format('woff2'),
+      url('../fonts/roboto-v19-latin-300.woff') format('woff')
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'),
+      url('../fonts/roboto-v19-latin-regular.woff2') format('woff2'),
+      url('../fonts/roboto-v19-latin-regular.woff') format('woff')
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: local('Roboto Medium'), local('Roboto-Medium'),
+      url('../fonts/roboto-v19-latin-500.woff2') format('woff2'),
+      url('../fonts/roboto-v19-latin-500.woff') format('woff')
+}
+
+@font-face {
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: local('Fira Sans Light'), local('FiraSans-Light'),
+      url('../fonts/fira-sans-v10-latin-300.woff2') format('woff2'),
+      url('../fonts/fira-sans-v10-latin-300.woff') format('woff')
+}
+
+@font-face {
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: local('Fira Sans Regular'), local('FiraSans-Regular'),
+      url('../fonts/fira-sans-v10-latin-regular.woff2') format('woff2'),
+      url('../fonts/fira-sans-v10-latin-regular.woff') format('woff')
+}
+
+@font-face {
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: local('Fira Sans Medium'), local('FiraSans-Medium'),
+      url('../fonts/fira-sans-v10-latin-500.woff2') format('woff2'),
+      url('../fonts/fira-sans-v10-latin-500.woff') format('woff')
+}
